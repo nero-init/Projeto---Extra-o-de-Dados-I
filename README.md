@@ -1,5 +1,7 @@
-Link do projeto: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2543093913971320/4336536109669794/770635763917914/latest.html
+Link do projeto dentro do databricks: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2543093913971320/4336536109669794/770635763917914/latest.html
 
+Recursos utilizados:
+- Python, Pyspark, Kafka
 
 Sistema de Monitoramento de Avanços no Campo da Genômica
 Contexto:
